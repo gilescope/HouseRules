@@ -10,4 +10,4 @@ Tidy up afterwards including bedding and food crumbs - this is especially import
 # Food
 
 Meals to be eaten downstairs.
-If crockery (plates / mugs) in rooms these need to be brought downstairs to the kitchen in mornings.
+If crockery (plates / mugs) are in rooms these need to be brought downstairs to the kitchen the following morning.
